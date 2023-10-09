@@ -1,0 +1,2 @@
+This is log.txt for assignment 1
+
